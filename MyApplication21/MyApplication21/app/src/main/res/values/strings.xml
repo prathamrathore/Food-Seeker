@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ODATE</string>
+    <string-array name="mlprac">
+        <item>--Select--</item>
+        <item>EXTRACT TEXT</item>
+        <!-- <item>DETECT FACE</item> -->
+        <item>LABEL IMAGES</item>
+       <!-- <item>DETECT LANDMARK</item> -->
+        <item>BARCODE SCANNING</item>
+
+    </string-array>
+</resources>
